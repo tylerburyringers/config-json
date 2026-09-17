@@ -1,28 +1,4 @@
-{
-  "name": "@popovmp/config-json",
-  "version": "1.2.0",
-  "description": "Reads configs from a config.json file.",
-  "main": "index.js",
-  "author": "Popov MP <info@forexsb.com>",
-  "license": "MIT",
-  "homepage": "https://github.com/popovmp/config-json",
-  "devDependencies": {
-    "@popovmp/mocha-tiny": "^1.3.1"
-  },
-  "scripts": {
-    "test": "mocha-tiny",
-    "prepublishOnly": "npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/popovmp/config-json.git"
-  },
-  "keywords": [
-    "config",
-    "nodejs"
-  ],
-  "bugs": {
-    "url": "https://github.com/popovmp/config-json/issues"
-  },
-  "dependencies": {}
+"maintainx": {
+  "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjE0MDQxOTAsIm9yZ2FuaXphdGlvbklkIjoxNjY2NzIsImlhdCI6MTc4OTY1ODI0Miwic3ViIjoiUkVTVF9BUElfQVVUSCIsImp0aSI6IjdjNDM4NTljLTRlMWEtNDU5My1iMWJlLTRjNDRkODcxMDA2YiJ9.nDm7R2iKuMvNTHvwrJxXyWzNslU0MIcJ16ehxg3tu4Y",
+  "base_url": "https://api.getmaintainx.com/v1"
 }
